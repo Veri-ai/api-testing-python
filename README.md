@@ -21,6 +21,6 @@ Run with:
 pytest -v
 ```
 
-### For detailed instructions, see [Guide.md](Guide.md).
+### For detailed instructions, see [GUIDE.md](GUIDE.md).
 
 
