@@ -13,3 +13,9 @@ A demo project showcasing automated API testing using Python.
    - Basic script: `python apiTest.py`
    - Pytest: `pytest`
 
+### Pytest Demo
+This repo includes a `test_api.py` file that uses pytest to validate GitHub API responses.
+
+Run with:
+```bash
+pytest -v
