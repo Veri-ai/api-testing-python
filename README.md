@@ -20,7 +20,6 @@ Run with:
 ```bash
 pytest -v
 
+---
 ### For detailed instructions, see [RUNNING.md](RUNNING.md).
-
-## How to Run
 
