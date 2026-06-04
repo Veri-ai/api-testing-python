@@ -19,7 +19,8 @@ This repo includes a `test_api.py` file that uses pytest to validate GitHub API 
 Run with:
 ```bash
 pytest -v
-` ``` `
+```bash
+
 ### For detailed instructions, see [RUNNING.md](RUNNING.md).
 
 
